@@ -5,6 +5,7 @@
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: 400;
+  color: red;
   src: local('Fira Sans Regular'), local('FiraSans-Regular'), url('../fonts/FiraSans-Regular.woff2') format('woff2');
 }
 
